@@ -19,6 +19,5 @@ class GradeConverter{
      else{
        letter = 'No Letter Applicable';
      }
-
    }
 }
