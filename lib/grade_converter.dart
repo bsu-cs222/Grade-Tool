@@ -1,6 +1,6 @@
-class GradeConverter{
+class GradeChange{
   late String letter;
-  converter(int grade){
+  swap(int grade){
      if(grade <= 100 && grade >= 93){
        letter = 'A';
      }
